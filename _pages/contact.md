@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-You can contact me through my email at [ayush.pandhi@astro.utoronto.ca](mailto:ayush.pandhi@astro.utoronto.ca). My current work address is:<br>David A. Dunlap Department of Astronomy and Astrophysics,<br>University of Toronto,<br>50 St. George Street,<br>Toronto, Ontario, Canada M5S 3H4.
+You can contact me through my email at [ayush.pandhi@mcgill.ca](mailto:ayush.pandhi@mcgill.ca). My current work address is:<br>Department of Physics,<br>McGill University,<br>3600 rue University,<br>Montreal, Quebec, Canada H3A 2T8.
