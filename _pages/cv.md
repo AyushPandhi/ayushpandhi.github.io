@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full _curriculum vitae_ [here](https://github.com/user-attachments/files/17926979/pandhi_cv_11262024.pdf).
+You can download my full _curriculum vitae_ [here](https://github.com/user-attachments/files/23306486/pandhi_cv_11032025.pdf).
