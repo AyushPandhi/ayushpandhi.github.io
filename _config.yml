@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ayush Pandhi"
   avatar           : "profile.png"
-  bio              : "PhD Candidate. Radio astronomer; magnetism, fast radio bursts, pulsars, and star formation."
-  location         : "Toronto, ON, Canada"
-  employer         : "University of Toronto"
+  bio              : "Postdoctoral Fellow. Radio astronomer; magnetism, fast radio bursts, pulsars, and star formation."
+  location         : "Montreal, QC, Canada"
+  employer         : "McGill University"
   ADS              : "https://ui.adsabs.harvard.edu/search/q=author%3A%22Pandhi%2C%20Ayush%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   googlescholar    : 
-  email            : "ayush.pandhi@astro.utoronto.ca"
+  email            : "ayush.pandhi@mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
