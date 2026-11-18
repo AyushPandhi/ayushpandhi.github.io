@@ -32,7 +32,7 @@ Regardless of the specific origins of FRBs, they serve as useful probes of inter
 Star Formation 
 =====
 
-Another one of my research interests is to study the role of magnetic fields in star formation -- particularly, as molecular clouds collapse into dense cores that will be the progenitors to protostars. Using the Green Bank Ammonia Survey ([GAS](https://greenbankobservatory.org/science/gbt-surveys/gas-survey-2/)), I studied the shapes and rotation of dense cores and how they align with the local magnetic field, as traced by dust polarization. Below, you can see the dense core elongation, velocity gradient direction, and magnetic field orientation for one of the cores in our sample.
+Another one of my research interests is to study the role of magnetic fields in star formation -- particularly, as molecular clouds collapse into dense cores that will be the progenitors to protostars. Using the Green Bank Ammonia Survey ([GAS](https://greenbankobservatory.org/science/gbt-surveys/gas/)), I studied the shapes and rotation of dense cores and how they align with the local magnetic field, as traced by dust polarization. Below, you can see the dense core elongation, velocity gradient direction, and magnetic field orientation for one of the cores in our sample.
 
 ![image](https://github.com/AyushPandhi/ayushpandhi.github.io/assets/39070494/0452487b-2d20-442d-a428-a473a46593ff)
 
