@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am both a Trottier Space Institute Fellow and a Fonds de recherche du Québec Fellow at McGill University. Prior to that I obtained both my Honours BSc and PhD in astronomy and astrophysics from the University of Toronto. 
+I am a Trottier Space Institute Fellow and a Fonds de recherche du Québec Fellow at McGill University. Prior to that I obtained both my Honours BSc and PhD in astronomy and astrophysics from the University of Toronto. 
 
 My research centers on using radio observations to study magnetism in the Universe: from the extreme magnetic fields of compact objects that drive radio transients, to large-scale fields that help shape the evolution of galaxies. As a part of the Canadian Hydrogen Intensity Mapping Experiment fast radio burst (CHIME/FRB) project, I work to unravel the origins of FRBs using their polarization properties and long-term monitoring of repeating FRBs. I also use FRBs as probes of the magnetized Universe, for example I developed a statistical inference technique to show how FRBs can be used to map the Galactic Magnetic Field.
 
